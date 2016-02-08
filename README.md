@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-# testing
-mhjkhbh
-=======
-# testing
->>>>>>> origin/master
+remove all
